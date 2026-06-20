@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b58c38"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#b58c38"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">算电协同从行业概念上升为国家战略，AI 正从"缺芯片"走向"缺电"</text>
+
+  <g font-family="'PingFang SC', sans-serif">
+    <rect x="90" y="390" width="420" height="450" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">电力需求爆发</text>
+    <text x="130" y="525" font-size="46" font-weight="700" fill="#f6e8b5">8000 亿 kWh</text>
+    <text x="130" y="570" font-size="28" fill="#c6b9d4">2030 年算力用电</text>
+    <text x="130" y="608" font-size="28" fill="#c6b9d4">占全社会 6%</text>
+    <line x1="130" y1="650" x2="470" y2="650" stroke="#5e4c75"/>
+    <text x="130" y="700" font-size="26" fill="#b8a9c8">单机柜功率 6-8kW</text>
+    <text x="130" y="738" font-size="26" fill="#b8a9c8">→ 50-100kW+</text>
+    <text x="130" y="780" font-size="24" fill="#b8a9c8">十五五期间年均新增</text>
+    <text x="130" y="814" font-size="24" fill="#b8a9c8">超 1000 亿 kWh</text>
+
+    <rect x="570" y="390" width="420" height="450" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">国家级战略确立</text>
+    <text x="610" y="525" font-size="48" font-weight="700" fill="#f6e8b5">算电协同</text>
+    <text x="610" y="570" font-size="26" fill="#c6b9d4">四部门行动方案</text>
+    <text x="610" y="608" font-size="26" fill="#c6b9d4">（2026-04）</text>
+    <line x1="610" y1="650" x2="950" y2="650" stroke="#5e4c75"/>
+    <text x="610" y="700" font-size="26" fill="#b8a9c8">十五五规划首次写入</text>
+    <text x="610" y="738" font-size="24" fill="#b8a9c8">2027 初步构建</text>
+    <text x="610" y="772" font-size="24" fill="#b8a9c8">2030 世界领先</text>
+
+    <rect x="90" y="890" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="950" font-size="22" fill="#d8bc63" letter-spacing="3">技术架构迭代</text>
+    <text x="130" y="1022" font-size="40" font-weight="700" fill="#f6e8b5">供电 + 散热</text>
+    <text x="130" y="1065" font-size="26" fill="#c6b9d4">双架构同步升级</text>
+    <line x1="130" y1="1108" x2="470" y2="1108" stroke="#5e4c75"/>
+    <text x="130" y="1158" font-size="26" fill="#b8a9c8">供电：UPS → HVDC</text>
+    <text x="130" y="1198" font-size="26" fill="#b8a9c8">散热：风冷 → 液冷</text>
+
+    <rect x="570" y="890" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="950" font-size="22" fill="#d8bc63" letter-spacing="3">盈利验证窗口</text>
+    <text x="610" y="1022" font-size="44" font-weight="700" fill="#f6e8b5">增收不增利</text>
+    <text x="610" y="1065" font-size="26" fill="#c6b9d4">英维克 Q1 净利 -82%</text>
+    <line x1="610" y1="1108" x2="950" y2="1108" stroke="#5e4c75"/>
+    <text x="610" y="1158" font-size="26" fill="#b8a9c8">HVDC 标的 PE 233-682x</text>
+    <text x="610" y="1198" font-size="26" fill="#b8a9c8">10+ 公司跨界液冷</text>
+  </g>
+
+  <rect x="90" y="1330" width="900" height="86" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1385" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="28" fill="#e8d696">产业趋势确定，但 A 股映射处于"强预期、弱兑现"阶段</text>
+  <text x="90" y="1440" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1440" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

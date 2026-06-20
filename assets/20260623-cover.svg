@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#06060f"/>
+      <stop offset="40%" stop-color="#0e0820"/>
+      <stop offset="75%" stop-color="#160a30"/>
+      <stop offset="100%" stop-color="#0a0815"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8943e"/>
+      <stop offset="30%" stop-color="#e8d48b"/>
+      <stop offset="50%" stop-color="#f5e8b0"/>
+      <stop offset="70%" stop-color="#e8d48b"/>
+      <stop offset="100%" stop-color="#b8943e"/>
+    </linearGradient>
+    <linearGradient id="goldSub" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8a7a5a"/>
+      <stop offset="50%" stop-color="#c9b878"/>
+      <stop offset="100%" stop-color="#8a7a5a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#c9a84c" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#c9a84c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <ellipse cx="540" cy="250" rx="420" ry="320" fill="url(#glow)"/>
+  <circle cx="920" cy="120" r="200" fill="none" stroke="#c9a84c" stroke-opacity="0.04" stroke-width="1"/>
+  <circle cx="920" cy="120" r="280" fill="none" stroke="#c9a84c" stroke-opacity="0.025" stroke-width="0.5"/>
+  <circle cx="160" cy="1320" r="140" fill="none" stroke="#c9a84c" stroke-opacity="0.03" stroke-width="1"/>
+  <g stroke="#c9a84c" stroke-opacity="0.05" stroke-width="0.6" fill="none">
+    <line x1="120" y1="60" x2="960" y2="1380"/>
+    <line x1="220" y1="40" x2="860" y2="1400"/>
+    <line x1="80" y1="380" x2="1000" y2="1080"/>
+  </g>
+  <g fill="#c9a84c" fill-opacity="0.1">
+    <circle cx="300" cy="300" r="3.5"/>
+    <circle cx="440" cy="460" r="3"/>
+    <circle cx="560" cy="620" r="4"/>
+    <circle cx="700" cy="780" r="2.5"/>
+  </g>
+  <rect x="440" y="220" width="200" height="2.5" fill="url(#gold)" rx="1"/>
+  <text x="540" y="350" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="96" font-weight="700" fill="#e8d48b" letter-spacing="8">MLCC粉体</text>
+  <rect x="490" y="400" width="100" height="2" fill="url(#gold)" rx="1"/>
+  <text x="540" y="520" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="52" font-weight="300" fill="#c9b878" letter-spacing="4">从5,000吨到万吨缺口</text>
+  <text x="540" y="610" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="32" font-weight="300" fill="#8a7a9a" letter-spacing="3">AI服务器MLCC用量14倍跃升</text>
+  <rect x="490" y="680" width="100" height="2" fill="url(#gold)" rx="1"/>
+  <text x="540" y="780" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="38" font-weight="300" fill="#a091b5" letter-spacing="2">全球高端粉体年供仅5,000吨</text>
+  <text x="540" y="840" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="38" font-weight="300" fill="#a091b5" letter-spacing="2">2026年已涨价20-30%</text>
+  <text x="540" y="920" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="30" font-weight="300" fill="#7a6a8a" letter-spacing="2">需求CAGR 53.4% · 日系五厂占65%供给</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b58c38"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#b58c38"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">AI驱动电子布从低端过剩走向高端紧缺，价格翻倍</text>
+
+  <g font-family="'PingFang SC', sans-serif">
+    <!-- Card 1: 涨价节奏 -->
+    <rect x="90" y="390" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">涨价节奏</text>
+    <text x="130" y="530" font-size="46" font-weight="700" fill="#f6e8b5">年内5轮提价</text>
+    <text x="130" y="575" font-size="26" fill="#c6b9d4">均价较2025Q3低点翻倍</text>
+    <line x1="130" y1="620" x2="470" y2="620" stroke="#5e4c75"/>
+    <text x="130" y="665" font-size="26" fill="#b8a9c8">普通7628布: +49%</text>
+    <text x="130" y="705" font-size="26" fill="#b8a9c8">高端1080布: 8.8元/米</text>
+    <text x="130" y="745" font-size="26" fill="#b8a9c8">电子纱G75较年初+42%</text>
+
+    <!-- Card 2: 供给瓶颈 -->
+    <rect x="570" y="390" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">供给瓶颈</text>
+    <text x="610" y="530" font-size="46" font-weight="700" fill="#f6e8b5">织布机:18月+</text>
+    <text x="610" y="575" font-size="26" fill="#c6b9d4">新产线从规划到投产需1.5年</text>
+    <line x1="610" y1="620" x2="950" y2="620" stroke="#5e4c75"/>
+    <text x="610" y="665" font-size="26" fill="#b8a9c8">库存周转急剧缩短</text>
+    <text x="610" y="705" font-size="26" fill="#b8a9c8">备货1.5月 → 仅7天消耗</text>
+    <text x="610" y="745" font-size="26" fill="#b8a9c8">铂铑涨价抑制扩产意愿</text>
+
+    <!-- Card 3: AI驱动 -->
+    <rect x="90" y="810" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="870" font-size="22" fill="#d8bc63" letter-spacing="3">AI驱动升级</text>
+    <text x="130" y="945" font-size="46" font-weight="700" fill="#f6e8b5">PCB价值+233%</text>
+    <text x="130" y="985" font-size="26" fill="#c6b9d4">Rubin驱动PCB全面升级</text>
+    <line x1="130" y1="1030" x2="470" y2="1030" stroke="#5e4c75"/>
+    <text x="130" y="1080" font-size="26" fill="#b8a9c8">PCB 16→20-30层</text>
+    <text x="130" y="1120" font-size="26" fill="#b8a9c8">低介电布需求翻倍至1.4亿米</text>
+    <text x="130" y="1160" font-size="26" fill="#b8a9c8">云厂商Capex 8300亿美元</text>
+
+    <!-- Card 4: 国产格局 -->
+    <rect x="570" y="810" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="870" font-size="22" fill="#d8bc63" letter-spacing="3">国产格局</text>
+    <text x="610" y="945" font-size="46" font-weight="700" fill="#f6e8b5">宏和英伟达认证</text>
+    <text x="610" y="985" font-size="26" fill="#c6b9d4">极薄布全球市占30-50%</text>
+    <line x1="610" y1="1030" x2="950" y2="1030" stroke="#5e4c75"/>
+    <text x="610" y="1080" font-size="26" fill="#b8a9c8">巨石淮安一期3月点火</text>
+    <text x="610" y="1120" font-size="26" fill="#b8a9c8">国际复材月出货120万米</text>
+    <text x="610" y="1160" font-size="26" fill="#b8a9c8">日东纺扩产保守至2028年</text>
+  </g>
+
+  <rect x="90" y="1260" width="900" height="90" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1316" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="28" fill="#e8d696">高端织布机交付周期是当前最刚的供给约束</text>
+  <text x="90" y="1400" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1400" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

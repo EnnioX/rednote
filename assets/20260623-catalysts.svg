@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a47c2d"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#a47c2d"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">03 / CATALYSTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="700" fill="#f1df91">已识别催化</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">提前定义每个节点要验证什么，而不是等新闻</text>
+
+  <line x1="250" y1="410" x2="250" y2="1190" stroke="#6f5530" stroke-width="3"/>
+  <g font-family="'PingFang SC', sans-serif">
+    <circle cx="250" cy="470" r="14" fill="#f2df91"/><circle cx="250" cy="470" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="462" font-size="24" fill="#d8bc63">6-7月</text>
+    <text x="320" y="452" font-size="34" font-weight="600" fill="#f5e8b0">中报预告窗口</text>
+    <text x="320" y="494" font-size="24" fill="#a99abb">核心验证：涨价是否转化为利润</text>
+
+    <circle cx="250" cy="640" r="14" fill="#f2df91"/><circle cx="250" cy="640" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="632" font-size="24" fill="#d8bc63">7-8月</text>
+    <text x="320" y="622" font-size="34" font-weight="600" fill="#f5e8b0">三星电机批量出货确认</text>
+    <text x="320" y="664" font-size="24" fill="#a99abb">验证：国瓷高端粉体放量第一个量化信号</text>
+
+    <circle cx="250" cy="810" r="14" fill="#f2df91"/><circle cx="250" cy="810" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="802" font-size="24" fill="#d8bc63">9月</text>
+    <text x="320" y="792" font-size="34" font-weight="600" fill="#f5e8b0">英伟达GTC / Rubin更新</text>
+    <text x="320" y="834" font-size="24" fill="#a99abb">验证：AI资本开支信心催化剂</text>
+
+    <circle cx="250" cy="980" r="14" fill="#f2df91"/><circle cx="250" cy="980" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="972" font-size="24" fill="#d8bc63">11月</text>
+    <text x="320" y="962" font-size="34" font-weight="600" fill="#f5e8b0">稀土管制到期续签</text>
+    <text x="320" y="1004" font-size="24" fill="#a99abb">验证：若扩大管制→强化供给约束</text>
+
+    <circle cx="250" cy="1150" r="14" fill="#f2df91"/><circle cx="250" cy="1150" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="1142" font-size="24" fill="#d8bc63">Q3末</text>
+    <text x="320" y="1132" font-size="34" font-weight="600" fill="#f5e8b0">高端粉体新一轮定价</text>
+    <text x="320" y="1174" font-size="24" fill="#a99abb">验证：提价10-20%预期能否落地</text>
+  </g>
+
+  <rect x="90" y="1240" width="900" height="105" rx="20" fill="#2a1525" stroke="#8e4f58" stroke-opacity="0.9"/>
+  <text x="125" y="1282" font-family="'PingFang SC', sans-serif" font-size="20" fill="#d8949d" letter-spacing="3">失效提醒</text>
+  <text x="125" y="1322" font-family="'PingFang SC', sans-serif" font-size="23" fill="#c8aeb4">AI Capex全局性放缓 · 稀土管制放松 · MLCC价格连续两月环比下跌</text>
+  <text x="90" y="1400" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1400" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

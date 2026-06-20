@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b58c38"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#b58c38"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">全球三大巨头同时押注，从研发到量产的转折</text>
+
+  <g font-family="'PingFang SC', sans-serif">
+    <rect x="90" y="390" width="420" height="380" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">产业突破</text>
+    <text x="130" y="530" font-size="42" font-weight="700" fill="#f6e8b5">从0到1里程碑</text>
+    <text x="130" y="575" font-size="26" fill="#c6b9d4">英特尔Xeon 6+出货</text>
+    <line x1="130" y1="620" x2="470" y2="620" stroke="#5e4c75"/>
+    <text x="130" y="665" font-size="26" fill="#b8a9c8">首款商用玻璃芯载板CPU</text>
+    <text x="130" y="705" font-size="26" fill="#b8a9c8">累计投资超10亿美元</text>
+    <text x="130" y="745" font-size="26" fill="#b8a9c8">产业路线从研发向量产</text>
+
+    <rect x="570" y="390" width="420" height="380" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">全球跟进</text>
+    <text x="610" y="530" font-size="42" font-weight="700" fill="#f6e8b5">三星·台积电同步</text>
+    <text x="610" y="575" font-size="26" fill="#c6b9d4">三大巨头同时押注</text>
+    <line x1="610" y1="620" x2="950" y2="620" stroke="#5e4c75"/>
+    <text x="610" y="665" font-size="26" fill="#b8a9c8">台积电CoPoS试产线建成</text>
+    <text x="610" y="705" font-size="26" fill="#b8a9c8">三星向苹果/博通送样</text>
+    <text x="610" y="745" font-size="26" fill="#b8a9c8">量产目标2027-2029</text>
+
+    <rect x="90" y="810" width="420" height="360" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="130" y="870" font-size="22" fill="#d8bc63" letter-spacing="3">技术优势</text>
+    <text x="130" y="945" font-size="42" font-weight="700" fill="#f6e8b5">CTE与硅完美匹配</text>
+    <text x="130" y="985" font-size="26" fill="#c6b9d4">3-7ppm/°C vs 有机15-20</text>
+    <line x1="130" y1="1030" x2="470" y2="1030" stroke="#5e4c75"/>
+    <text x="130" y="1080" font-size="26" fill="#b8a9c8">介电损耗低60%</text>
+    <text x="130" y="1120" font-size="26" fill="#b8a9c8">支撑40倍光罩封装面积</text>
+    <text x="130" y="1160" font-size="26" fill="#b8a9c8">尺寸稳定性优于有机</text>
+
+    <rect x="570" y="810" width="420" height="360" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="610" y="870" font-size="22" fill="#d8bc63" letter-spacing="3">技术瓶颈</text>
+    <text x="610" y="945" font-size="42" font-weight="700" fill="#f6e8b5">良率成本待突破</text>
+    <text x="610" y="985" font-size="26" fill="#c6b9d4">成本较有机高30-50%</text>
+    <line x1="610" y1="1030" x2="950" y2="1030" stroke="#5e4c75"/>
+    <text x="610" y="1080" font-size="26" fill="#b8a9c8">玻璃原片高度依赖康宁</text>
+    <text x="610" y="1120" font-size="26" fill="#b8a9c8">TGV填铜良率不稳定</text>
+    <text x="610" y="1160" font-size="26" fill="#b8a9c8">搬运设备依赖日本进口</text>
+  </g>
+
+  <rect x="90" y="1260" width="900" height="90" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1316" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="28" fill="#e8d696">产业趋势真实，但A股映射收入占比 &lt; 1% 或为零</text>
+  <text x="90" y="1400" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1400" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#06060f"/>
+      <stop offset="40%" stop-color="#0e0820"/>
+      <stop offset="75%" stop-color="#160a30"/>
+      <stop offset="100%" stop-color="#0a0815"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8943e"/>
+      <stop offset="30%" stop-color="#e8d48b"/>
+      <stop offset="50%" stop-color="#f5e8b0"/>
+      <stop offset="70%" stop-color="#e8d48b"/>
+      <stop offset="100%" stop-color="#b8943e"/>
+    </linearGradient>
+    <linearGradient id="goldSub" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8a7a5a"/>
+      <stop offset="50%" stop-color="#c9b878"/>
+      <stop offset="100%" stop-color="#8a7a5a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#c9a84c" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#c9a84c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+
+  <!-- Subtle ambient glow -->
+  <ellipse cx="540" cy="250" rx="450" ry="350" fill="url(#glow)"/>
+
+  <!-- Decorative geometric circles -->
+  <circle cx="940" cy="100" r="200" fill="none" stroke="#c9a84c" stroke-opacity="0.04" stroke-width="1"/>
+  <circle cx="940" cy="100" r="280" fill="none" stroke="#c9a84c" stroke-opacity="0.025" stroke-width="0.5"/>
+  <circle cx="140" cy="1340" r="140" fill="none" stroke="#c9a84c" stroke-opacity="0.03" stroke-width="1"/>
+
+  <!-- Abstract connection lines -->
+  <g stroke="#c9a84c" stroke-opacity="0.06" stroke-width="0.8" fill="none">
+    <line x1="100" y1="60" x2="980" y2="1380"/>
+    <line x1="200" y1="40" x2="880" y2="1400"/>
+    <line x1="50" y1="350" x2="1030" y2="1100"/>
+  </g>
+
+  <!-- Small dots -->
+  <g fill="#c9a84c" fill-opacity="0.1">
+    <circle cx="280" cy="320" r="3.5"/>
+    <circle cx="420" cy="480" r="3"/>
+    <circle cx="680" cy="800" r="2.5"/>
+    <circle cx="350" cy="720" r="3"/>
+  </g>
+
+  <!-- ===== TEXT ===== -->
+
+  <!-- Top accent line -->
+  <rect x="440" y="280" width="200" height="2.5" fill="url(#gold)" rx="1"/>
+
+  <!-- Main heading: 创新药 — 120px -->
+  <text x="540" y="440" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="120" font-weight="700" fill="#e8d48b" letter-spacing="6">创新药</text>
+
+  <!-- Gold divider -->
+  <rect x="490" y="510" width="100" height="2" fill="url(#gold)" rx="1"/>
+
+  <!-- Sub heading: 56px -->
+  <text x="540" y="640" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="56" font-weight="300" fill="#c9b878" letter-spacing="4">业绩已反转</text>
+
+  <text x="540" y="730" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="56" font-weight="300" fill="#c9b878" letter-spacing="4">估值在底部</text>
+
+  <!-- Bottom accent line -->
+  <rect x="490" y="820" width="100" height="2" fill="url(#gold)" rx="1"/>
+
+  <!-- Key data: 36px -->
+  <text x="540" y="960" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="38" font-weight="300" fill="#a091b5" letter-spacing="2">Q1 净利润 +109% · BD 交易 600 亿美元</text>
+
+  <text x="540" y="1030" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif" font-size="36" font-weight="300" fill="#a091b5" letter-spacing="2">PB 近 10 年 14% 分位 · 全线低拥挤</text>
+
+</svg>

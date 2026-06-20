@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a47c2d"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#a47c2d"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">03 / CATALYSTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="700" fill="#f1df91">已识别催化</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">6–8 月事件密集，每一个节点都是板块重置锚点</text>
+
+  <line x1="250" y1="410" x2="250" y2="1190" stroke="#6f5530" stroke-width="3"/>
+  <g font-family="'PingFang SC', sans-serif">
+    <circle cx="250" cy="470" r="14" fill="#f2df91"/><circle cx="250" cy="470" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="462" font-size="24" fill="#d8bc63">6 月</text>
+    <text x="320" y="452" font-size="34" font-weight="600" fill="#f5e8b0">ASCO 年会数据读出</text>
+    <text x="320" y="494" font-size="24" fill="#a99abb">验证：恒瑞 90+ 项研究、百济 20+ 项摘要临床数据</text>
+
+    <circle cx="250" cy="640" r="14" fill="#f2df91"/><circle cx="250" cy="640" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="625" font-size="22" fill="#d8bc63">6–7 月</text>
+    <text x="320" y="622" font-size="34" font-weight="600" fill="#f5e8b0">科创板扩容细则落地</text>
+    <text x="320" y="664" font-size="24" fill="#a99abb">验证：行业目录和推荐指引正式发布</text>
+
+    <circle cx="250" cy="810" r="14" fill="#f2df91"/><circle cx="250" cy="810" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="795" font-size="22" fill="#d8bc63">7 月 23 日</text>
+    <text x="320" y="792" font-size="34" font-weight="600" fill="#f5e8b0">卡瑞利珠单抗 FDA 审评</text>
+    <text x="320" y="834" font-size="24" fill="#a99abb">验证：首个国产 PD-1 能否在美国上市</text>
+
+    <circle cx="250" cy="980" r="14" fill="#f2df91"/><circle cx="250" cy="980" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="965" font-size="22" fill="#d8bc63">7–8 月</text>
+    <text x="320" y="962" font-size="34" font-weight="600" fill="#f5e8b0">医保目录谈判</text>
+    <text x="320" y="1004" font-size="24" fill="#a99abb">验证：创新药谈判价格降幅和纳入数量</text>
+
+    <circle cx="250" cy="1150" r="14" fill="#f2df91"/><circle cx="250" cy="1150" r="28" fill="none" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="90" y="1135" font-size="22" fill="#d8bc63">8 月</text>
+    <text x="320" y="1132" font-size="34" font-weight="600" fill="#f5e8b0">中报业绩验证</text>
+    <text x="320" y="1174" font-size="24" fill="#a99abb">验证：营收增速、在手订单、毛利率趋势</text>
+  </g>
+
+  <rect x="90" y="1240" width="900" height="105" rx="20" fill="#2a1525" stroke="#8e4f58" stroke-opacity="0.9"/>
+  <text x="125" y="1282" font-family="'PingFang SC', sans-serif" font-size="20" fill="#d8949d" letter-spacing="3">失效提醒</text>
+  <text x="125" y="1322" font-family="'PingFang SC', sans-serif" font-size="23" fill="#c8aeb4">加息超预期压制估值 · 中报增速大幅回落 · BD 里程碑转化率低于预期</text>
+  <text x="90" y="1400" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1400" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

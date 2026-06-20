@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b58c38"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#b58c38"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">盈利拐点、BD 爆发、CXO 加速——三重信号交叉验证</text>
+
+  <g font-family="'PingFang SC', sans-serif">
+    <!-- Card 1: 盈利拐点 -->
+    <rect x="90" y="390" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">盈利拐点</text>
+    <text x="130" y="525" font-size="52" font-weight="700" fill="#f6e8b5">+109%</text>
+    <text x="130" y="570" font-size="29" fill="#c6b9d4">科创板医药 Q1 净利润</text>
+    <line x1="130" y1="615" x2="470" y2="615" stroke="#5e4c75"/>
+    <text x="130" y="665" font-size="26" fill="#b8a9c8">百济神州首次 GAAP 盈利</text>
+    <text x="130" y="705" font-size="26" fill="#b8a9c8">恒瑞创新药收入占比 61.7%</text>
+
+    <!-- Card 2: BD 交易 -->
+    <rect x="570" y="390" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">BD 交易爆发</text>
+    <text x="610" y="525" font-size="48" font-weight="700" fill="#f6e8b5">600 亿美元</text>
+    <text x="610" y="570" font-size="26" fill="#c6b9d4">Q1 交易总额接近 2025 全年一半</text>
+    <line x1="610" y1="615" x2="950" y2="615" stroke="#5e4c75"/>
+    <text x="610" y="665" font-size="28" fill="#d4c8df">恒瑞 × BMS</text>
+    <text x="610" y="705" font-size="25" fill="#a99abb">152 亿美元战略合作</text>
+    <text x="610" y="740" font-size="25" fill="#a99abb">13 款药物共同开发</text>
+
+    <!-- Card 3: CXO 订单 -->
+    <rect x="90" y="800" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="860" font-size="22" fill="#d8bc63" letter-spacing="3">CXO 订单加速</text>
+    <text x="130" y="935" font-size="52" font-weight="700" fill="#f6e8b5">597.7 亿</text>
+    <text x="130" y="978" font-size="25" fill="#a99abb">药明康德在手订单（+23.6%）</text>
+    <line x1="130" y1="1020" x2="470" y2="1020" stroke="#5e4c75"/>
+    <text x="130" y="1070" font-size="27" fill="#d4c8df">康龙化成</text>
+    <text x="130" y="1110" font-size="25" fill="#a99abb">新签订单同比 +30%</text>
+    <text x="130" y="1155" font-size="25" fill="#a99abb">CXO 板块扣非净利 +63.48%</text>
+
+    <!-- Card 4: 政策催化 -->
+    <rect x="570" y="800" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="860" font-size="22" fill="#d8bc63" letter-spacing="3">政策催化</text>
+    <text x="610" y="935" font-size="48" font-weight="700" fill="#f6e8b5">科创板扩容</text>
+    <text x="610" y="978" font-size="25" fill="#a99abb">6.17 陆家嘴论坛正式宣布</text>
+    <line x1="610" y1="1020" x2="950" y2="1020" stroke="#5e4c75"/>
+    <text x="610" y="1070" font-size="27" fill="#d4c8df">覆盖生物制造 · 脑机接口</text>
+    <text x="610" y="1110" font-size="25" fill="#a99abb">· 基因工程</text>
+    <text x="610" y="1155" font-size="25" fill="#a99abb">十五五 → 国家新兴支柱产业</text>
+  </g>
+
+  <rect x="90" y="1240" width="900" height="86" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1295" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="28" fill="#e8d696">基本面已经变了，市场定价还在后面</text>
+  <text x="90" y="1380" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1380" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

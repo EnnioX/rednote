@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#06060f"/><stop offset="40%" stop-color="#0e0820"/><stop offset="75%" stop-color="#160a30"/><stop offset="100%" stop-color="#0a0815"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#b58c38"/><stop offset="50%" stop-color="#f2df91"/><stop offset="100%" stop-color="#b58c38"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC',sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC',sans-serif" font-size="72" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC',sans-serif" font-size="27" fill="#a99abb">苹果首款折叠屏确认9月发布，全球供应链放量在即</text>
+  <g font-family="'PingFang SC',sans-serif">
+    <rect x="90" y="390" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">苹果入局</text>
+    <text x="130" y="530" font-size="42" font-weight="700" fill="#f6e8b5">折叠屏iPhone</text>
+    <text x="130" y="575" font-size="26" fill="#c6b9d4">首款折叠屏确认9月发布</text>
+    <line x1="130" y1="620" x2="470" y2="620" stroke="#5e4c75"/>
+    <text x="130" y="665" font-size="26" fill="#b8a9c8">首年出货预测1300-1500万</text>
+    <text x="130" y="705" font-size="26" fill="#b8a9c8">占全球折叠屏市场约28%</text>
+    <text x="130" y="745" font-size="26" fill="#b8a9c8">铰链标准全面升级</text>
+    <rect x="570" y="390" width="420" height="380" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">出货跃升</text>
+    <text x="610" y="530" font-size="42" font-weight="700" fill="#f6e8b5">市场规模翻倍</text>
+    <text x="610" y="575" font-size="26" fill="#c6b9d4">全球出货2000万→3500万</text>
+    <line x1="610" y1="620" x2="950" y2="620" stroke="#5e4c75"/>
+    <text x="610" y="665" font-size="26" fill="#b8a9c8">铰链市场规模超13亿美元</text>
+    <text x="610" y="705" font-size="26" fill="#b8a9c8">渗透率从1.6%向5%+提升</text>
+    <text x="610" y="745" font-size="26" fill="#b8a9c8">苹果入局+60-75%增长</text>
+    <rect x="90" y="810" width="420" height="360" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="870" font-size="22" fill="#d8bc63" letter-spacing="3">工艺跃迁</text>
+    <text x="130" y="945" font-size="42" font-weight="700" fill="#f6e8b5">精度数量级提升</text>
+    <text x="130" y="985" font-size="26" fill="#c6b9d4">精度0.01mm→0.005mm</text>
+    <line x1="130" y1="1030" x2="470" y2="1030" stroke="#5e4c75"/>
+    <text x="130" y="1080" font-size="26" fill="#b8a9c8">疲劳寿命要求50万次开合</text>
+    <text x="130" y="1120" font-size="26" fill="#b8a9c8">超安卓现有供应链能力</text>
+    <text x="130" y="1160" font-size="26" fill="#b8a9c8">是门槛跃迁而非简单扩产</text>
+    <rect x="570" y="810" width="420" height="360" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="870" font-size="22" fill="#d8bc63" letter-spacing="3">材料升级</text>
+    <text x="610" y="945" font-size="42" font-weight="700" fill="#f6e8b5">液态金属+MIM</text>
+    <text x="610" y="985" font-size="26" fill="#c6b9d4">液态金属首次规模应用</text>
+    <line x1="610" y1="1030" x2="950" y2="1030" stroke="#5e4c75"/>
+    <text x="610" y="1080" font-size="26" fill="#b8a9c8">宜安苹果独家主轴供应商</text>
+    <text x="610" y="1120" font-size="26" fill="#b8a9c8">东睦华为铰链份额超45%</text>
+    <text x="610" y="1160" font-size="26" fill="#b8a9c8">MIM+液态金属双路线并行</text>
+  </g>
+  <rect x="90" y="1260" width="900" height="90" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1316" text-anchor="middle" font-family="'PingFang SC',sans-serif" font-size="28" fill="#e8d696">苹果入局推动铰链从定制精密件走向标准模组化</text>
+  <text x="90" y="1400" font-family="'Times New Roman',serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1400" text-anchor="end" font-family="'PingFang SC',sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

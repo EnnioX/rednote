@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#06060f"/><stop offset="40%" stop-color="#0e0820"/><stop offset="75%" stop-color="#160a30"/><stop offset="100%" stop-color="#0a0815"/></linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#9d7930"/><stop offset="50%" stop-color="#f2df91"/><stop offset="100%" stop-color="#9d7930"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c9a84c"/></marker>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <text x="90" y="112" font-family="'PingFang SC',sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">02 / INDUSTRY FLOW</text>
+  <text x="90" y="220" font-family="'PingFang SC',sans-serif" font-size="68" font-weight="700" fill="#f1df91">供需与盈利传导</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#flow)"/>
+  <text x="90" y="325" font-family="'PingFang SC',sans-serif" font-size="27" fill="#a99abb">从需求扩张到产能约束，再到盈利分化</text>
+  <g font-family="'PingFang SC',sans-serif" text-anchor="middle">
+    <rect x="170" y="390" width="740" height="130" rx="28" fill="#171027" stroke="#8e7137"/>
+    <text x="540" y="442" font-size="22" fill="#d8bc63" letter-spacing="3">需求起点</text>
+    <text x="540" y="490" font-size="30" font-weight="600" fill="#f5e8b0">苹果入局 → 折叠屏出货+60-75%</text>
+    <line x1="540" y1="535" x2="540" y2="575" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="170" y="590" width="740" height="130" rx="28" fill="#171027" stroke="#8e7137"/>
+    <text x="540" y="642" font-size="22" fill="#d8bc63" letter-spacing="3">产能约束</text>
+    <text x="540" y="690" font-size="30" font-weight="600" fill="#f5e8b0">铰链良率瓶颈 · 液态金属仅65%</text>
+    <line x1="540" y1="735" x2="540" y2="775" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="170" y="790" width="740" height="130" rx="28" fill="#171027" stroke="#8e7137"/>
+    <text x="540" y="842" font-size="22" fill="#d8bc63" letter-spacing="3">竞争格局</text>
+    <text x="540" y="890" font-size="30" font-weight="600" fill="#f5e8b0">韩系Fine M-Tec占苹果铰链80%+</text>
+    <line x1="540" y1="935" x2="540" y2="975" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="170" y="990" width="740" height="190" rx="28" fill="#171027" stroke="#8e7137"/>
+    <text x="540" y="1042" font-size="22" fill="#d8bc63" letter-spacing="3">盈利传导</text>
+    <text x="540" y="1095" font-size="30" font-weight="600" fill="#f5e8b0">东睦净利6.81亿 ROE 17%</text>
+    <text x="540" y="1145" font-size="30" font-weight="600" fill="#f5e8b0">精研0.68亿 · 统联0.12亿 · 宜安亏损</text>
+    <line x1="540" y1="1200" x2="540" y2="1240" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="170" y="1260" width="740" height="80" rx="28" fill="#d8bc63" fill-opacity="0.11" stroke="#d8bc63"/>
+    <text x="540" y="1310" font-size="28" font-weight="600" fill="#f5e8b0">盈利验证最快在2026Q4-2027Q1</text>
+  </g>
+  <text x="90" y="1360" font-family="'PingFang SC',sans-serif" font-size="22" fill="#d8bc63" letter-spacing="3">当前风险</text>
+  <g font-family="'PingFang SC',sans-serif" font-size="20">
+    <rect x="90" y="1385" width="280" height="45" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="230" y="1414" text-anchor="middle" fill="#dfb4b9">东睦精研60日涨超50%</text>
+    <rect x="400" y="1385" width="280" height="45" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="540" y="1414" text-anchor="middle" fill="#dfb4b9">苹果铰链可能跳票至2027</text>
+    <rect x="710" y="1385" width="280" height="45" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="850" y="1414" text-anchor="middle" fill="#dfb4b9">液态金属路线可能被调整</text>
+  </g>
+</svg>

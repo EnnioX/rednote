@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9d7930"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#9d7930"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c9a84c"/></marker>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">02 / SUPPLY TO PROFIT</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="68" font-weight="700" fill="#f1df91">产业供需与盈利传导</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#flow)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">AI 算力爆发驱动电力需求，供电和散热架构必须同步升级</text>
+
+  <g font-family="'PingFang SC', sans-serif" text-anchor="middle">
+    <rect x="170" y="380" width="740" height="100" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="540" y="420" font-size="22" fill="#d8bc63" letter-spacing="3">需求起点</text>
+    <text x="540" y="458" font-size="32" font-weight="600" fill="#f5e8b0">AI 算力 Capex 刚性增长 → 电力需求爆发</text>
+    <line x1="540" y1="495" x2="540" y2="530" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="545" width="360" height="160" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="350" y="585" font-size="20" fill="#d8bc63" letter-spacing="3">供电架构升级</text>
+    <text x="350" y="625" font-size="28" font-weight="600" fill="#f5e8b0">UPS → HVDC → SST</text>
+    <text x="350" y="665" font-size="22" fill="#a99abb">配电设备需求倍数放大</text>
+    <text x="350" y="695" font-size="22" fill="#a99abb">800V HVDC 2026Q3 小批量</text>
+
+    <rect x="550" y="545" width="360" height="160" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="730" y="585" font-size="20" fill="#d8bc63" letter-spacing="3">散热架构升级</text>
+    <text x="730" y="625" font-size="28" font-weight="600" fill="#f5e8b0">风冷 → 液冷 → 浸没</text>
+    <text x="730" y="665" font-size="22" fill="#a99abb">Rubin 确定 100% 全液冷</text>
+    <text x="730" y="695" font-size="22" fill="#a99abb">渗透率 14% → 60%+</text>
+
+    <line x1="350" y1="720" x2="350" y2="755" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+    <line x1="730" y1="720" x2="730" y2="755" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="770" width="740" height="100" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="540" y="810" font-size="22" fill="#d8bc63" letter-spacing="3">盈利兑现</text>
+    <text x="540" y="848" font-size="32" font-weight="600" fill="#f5e8b0">设备出货放量 → 产能爬坡 → 毛利率改善</text>
+    <line x1="540" y1="885" x2="540" y2="920" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="935" width="740" height="100" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="540" y="975" font-size="22" fill="#d8bc63" letter-spacing="3">正向运营</text>
+    <text x="540" y="1013" font-size="32" font-weight="600" fill="#f5e8b0">AIDC 上架率提升 → 收入 + 定价权改善</text>
+    <line x1="540" y1="1050" x2="540" y2="1085" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="1100" width="740" height="70" rx="28" fill="#d8bc63" fill-opacity="0.11" stroke="#d8bc63"/>
+    <text x="540" y="1140" font-size="22" fill="#d8bc63" letter-spacing="3">当前瓶颈：液冷增收不增利 · HVDC 估值透支 · 跨界玩家涌入</text>
+  </g>
+
+  <text x="90" y="1270" font-family="'PingFang SC', sans-serif" font-size="22" fill="#d8bc63" letter-spacing="3">子方向吸引力排序</text>
+  <g font-family="'PingFang SC', sans-serif" font-size="23">
+    <rect x="90" y="1295" width="200" height="56" rx="16" fill="#1a3025" stroke="#6ba87e"/><text x="190" y="1328" text-anchor="middle" fill="#8dcaa0">AIDC 运营 ★★★</text>
+    <rect x="310" y="1295" width="200" height="56" rx="16" fill="#2a2a15" stroke="#a89e4f"/><text x="410" y="1328" text-anchor="middle" fill="#d8c95e">电力设备 ★★</text>
+    <rect x="530" y="1295" width="200" height="56" rx="16" fill="#2a1525" stroke="#a84f58"/><text x="630" y="1328" text-anchor="middle" fill="#d8949d">液冷/HVDC ★</text>
+  </g>
+</svg>
