@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b58c38"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#b58c38"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="68" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">英伟达从GPU公司变为系统级计算公司</text>
+
+  <g font-family="'PingFang SC', sans-serif">
+    <rect x="90" y="390" width="420" height="440" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">系统级跨越</text>
+    <text x="130" y="530" font-size="40" font-weight="700" fill="#f6e8b5">6芯片深度协同</text>
+    <text x="130" y="575" font-size="26" fill="#c6b9d4">Vera CPU 88核Arm v9.2</text>
+    <line x1="130" y1="615" x2="470" y2="615" stroke="#5e4c75"/>
+    <text x="130" y="655" font-size="26" fill="#b8a9c8">HBM4 22TB/s内存带宽</text>
+    <text x="130" y="695" font-size="26" fill="#b8a9c8">NVLink 6 每GPU 3.6TB/s</text>
+    <text x="130" y="735" font-size="26" fill="#b8a9c8">NVL72单柜3.6 EFLOPS</text>
+    <text x="130" y="780" font-size="26" fill="#b8a9c8">Token成本降至1/10</text>
+
+    <rect x="570" y="390" width="420" height="440" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">量产确认</text>
+    <text x="610" y="530" font-size="40" font-weight="700" fill="#f6e8b5">全面投产已启动</text>
+    <text x="610" y="575" font-size="26" fill="#c6b9d4">2026年6月1日全面投产</text>
+    <line x1="610" y1="615" x2="950" y2="615" stroke="#5e4c75"/>
+    <text x="610" y="655" font-size="26" fill="#b8a9c8">CoreWeave/Oracle已收首套</text>
+    <text x="610" y="695" font-size="26" fill="#b8a9c8">Vera CPU已出货250万颗</text>
+    <text x="610" y="735" font-size="26" fill="#b8a9c8">供应链规模为Blackwell 2倍</text>
+    <text x="610" y="780" font-size="26" fill="#b8a9c8">组装速度提升18倍</text>
+
+    <rect x="90" y="870" width="420" height="290" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="130" y="930" font-size="22" fill="#d8bc63" letter-spacing="3">A股映射主线</text>
+    <text x="130" y="1005" font-size="40" font-weight="700" fill="#f6e8b5">胜宏科技PCB独供</text>
+    <text x="130" y="1045" font-size="26" fill="#c6b9d4">计算板+交换板双料独家</text>
+    <line x1="130" y1="1085" x2="470" y2="1085" stroke="#5e4c75"/>
+    <text x="130" y="1125" font-size="26" fill="#b8a9c8">PCB价值量+233%</text>
+
+    <rect x="570" y="870" width="420" height="290" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="610" y="930" font-size="22" fill="#d8bc63" letter-spacing="3">A股映射主线</text>
+    <text x="610" y="1005" font-size="40" font-weight="700" fill="#f6e8b5">工业富联代工主力</text>
+    <text x="610" y="1045" font-size="26" fill="#c6b9d4">独家代工HGX NOL8系统</text>
+    <line x1="610" y1="1085" x2="950" y2="1085" stroke="#5e4c75"/>
+    <text x="610" y="1125" font-size="26" fill="#b8a9c8">整机柜份额80-90%</text>
+  </g>
+
+  <rect x="90" y="1260" width="900" height="90" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1316" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="28" fill="#e8d696">核心标的年内涨幅已大，中报将是首次业绩验证</text>
+  <text x="90" y="1400" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1400" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

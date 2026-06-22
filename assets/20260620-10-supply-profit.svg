@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9d7930"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#9d7930"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c9a84c"/></marker>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">02 / SUPPLY TO PROFIT</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="68" font-weight="700" fill="#f1df91">产业供需与盈利传导</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#flow)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">从AI算力需求爆发到供应链价值重构</text>
+
+  <g font-family="'PingFang SC', sans-serif" text-anchor="middle">
+    <rect x="170" y="390" width="740" height="120" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="540" y="435" font-size="22" fill="#d8bc63" letter-spacing="3">需求驱动</text>
+    <text x="540" y="480" font-size="34" font-weight="600" fill="#f5e8b0">Agentic AI推理需求爆发·Token消耗量20-30倍</text>
+    <line x1="540" y1="525" x2="540" y2="575" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="590" width="740" height="120" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="540" y="635" font-size="22" fill="#d8bc63" letter-spacing="3">供给变革</text>
+    <text x="540" y="680" font-size="34" font-weight="600" fill="#f5e8b0">Rubin平台全面投产·整机柜即计算机</text>
+    <line x1="540" y1="725" x2="540" y2="775" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="790" width="740" height="120" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="540" y="835" font-size="22" fill="#d8bc63" letter-spacing="3">价值重构</text>
+    <text x="540" y="880" font-size="34" font-weight="600" fill="#f5e8b0">PCB+233%·MLCC+182%·单柜$780万</text>
+    <line x1="540" y1="925" x2="540" y2="975" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="990" width="740" height="120" rx="28" fill="#1a112c" stroke="#8e7137"/>
+    <text x="540" y="1035" font-size="22" fill="#d8bc63" letter-spacing="3">盈利传导</text>
+    <text x="540" y="1080" font-size="34" font-weight="600" fill="#f5e8b0">胜宏科技PCB独供·工业富联80-90%代工</text>
+    <line x1="540" y1="1125" x2="540" y2="1155" stroke="#c9a84c" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="170" y="1170" width="740" height="80" rx="28" fill="#d8bc63" fill-opacity="0.11" stroke="#d8bc63"/>
+    <text x="540" y="1200" font-size="22" fill="#d8bc63" letter-spacing="3">当前状态</text>
+    <text x="540" y="1230" font-size="28" font-weight="600" fill="#f5e8b0">板块已部分定价·中报验证首次Rubin收入</text>
+  </g>
+
+  <text x="90" y="1342" font-family="'PingFang SC', sans-serif" font-size="22" fill="#d8bc63" letter-spacing="3">当前验证节点</text>
+  <g font-family="'PingFang SC', sans-serif" font-size="23">
+    <rect x="90" y="1368" width="280" height="56" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="230" y="1400" text-anchor="middle" fill="#dfb4b9">胜宏中报营收&gt;50%</text>
+    <rect x="400" y="1368" width="280" height="56" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="540" y="1400" text-anchor="middle" fill="#dfb4b9">工业富联AI营收4500亿</text>
+    <rect x="710" y="1368" width="280" height="56" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="850" y="1400" text-anchor="middle" fill="#dfb4b9">NVDA Q2出货指引</text>
+  </g>
+</svg>

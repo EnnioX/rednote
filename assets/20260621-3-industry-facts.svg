@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b58c38"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#b58c38"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="68" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">三大晶圆厂同步扩产·国产化率斜率拐点·大基金精准投入</text>
+
+  <g font-family="'PingFang SC', sans-serif">
+    <!-- Card 1: 三大晶圆厂同步扩产 -->
+    <rect x="90" y="390" width="420" height="380" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">三大晶圆厂同步扩产</text>
+    <text x="130" y="525" font-size="34" font-weight="700" fill="#f6e8b5">长鑫50-60亿美元/年</text>
+    <text x="130" y="565" font-size="26" fill="#c6b9d4">设备采购，国产优先</text>
+    <line x1="130" y1="600" x2="470" y2="600" stroke="#5e4c75"/>
+    <text x="130" y="640" font-size="26" fill="#b8a9c8">长江存储产能翻倍</text>
+    <text x="130" y="680" font-size="26" fill="#b8a9c8">国产设备使用率超50%</text>
+    <text x="130" y="720" font-size="26" fill="#b8a9c8">中芯国际新增4万片/月</text>
+
+    <!-- Card 2: 国产化率加速 -->
+    <rect x="570" y="390" width="420" height="380" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">国产化率加速跃升</text>
+    <text x="610" y="525" font-size="34" font-weight="700" fill="#f6e8b5">25%→35%→45%+</text>
+    <text x="610" y="565" font-size="26" fill="#c6b9d4">2024→2025→2026E</text>
+    <line x1="610" y1="600" x2="950" y2="600" stroke="#5e4c75"/>
+    <text x="610" y="640" font-size="26" fill="#b8a9c8">前十大国产设备商</text>
+    <text x="610" y="680" font-size="26" fill="#b8a9c8">招标中标占比63.5%</text>
+    <text x="610" y="720" font-size="26" fill="#b8a9c8">存储厂国产占比40-50%</text>
+
+    <!-- Card 3: 大基金三期 -->
+    <rect x="90" y="815" width="420" height="260" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="130" y="875" font-size="22" fill="#d8bc63" letter-spacing="3">大基金三期精准投入</text>
+    <text x="130" y="945" font-size="34" font-weight="700" fill="#f6e8b5">3,440亿元</text>
+    <text x="130" y="985" font-size="26" fill="#c6b9d4">约70%投向设备材料</text>
+    <line x1="130" y1="1020" x2="470" y2="1020" stroke="#5e4c75"/>
+    <text x="130" y="1055" font-size="26" fill="#b8a9c8">聚焦刻蚀/薄膜/Core部件</text>
+
+    <!-- Card 4: 订单可量化 -->
+    <rect x="570" y="815" width="420" height="260" rx="28" fill="#1a112c" stroke="#8e7137" stroke-opacity="0.65"/>
+    <text x="610" y="875" font-size="22" fill="#d8bc63" letter-spacing="3">龙头在手订单</text>
+    <text x="610" y="945" font-size="34" font-weight="700" fill="#f6e8b5">排产至2027年Q1</text>
+    <text x="610" y="985" font-size="26" fill="#c6b9d4">北方华创650亿+</text>
+    <line x1="610" y1="1020" x2="950" y2="1020" stroke="#5e4c75"/>
+    <text x="610" y="1055" font-size="26" fill="#b8a9c8">四家龙头合计营收~429亿</text>
+
+    <rect x="90" y="1220" width="900" height="90" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+    <text x="540" y="1275" text-anchor="middle" font-size="28" fill="#e8d696">三重共振不可逆，板块估值已计入较多乐观预期</text>
+  </g>
+  <text x="90" y="1400" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1400" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

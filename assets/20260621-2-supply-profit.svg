@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/></linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9d7930"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#9d7930"/></linearGradient>
+    <linearGradient id="redWarning" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8e4f58"/><stop offset="0.5" stop-color="#cc7a86"/><stop offset="1" stop-color="#8e4f58"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#c9a84c"/></marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6bb89e"/></marker>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">02 / SUPPLY TO PROFIT</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="68" font-weight="700" fill="#f1df91">产业供需与盈利传导</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#flow)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">存储通胀反噬终端需求，但芯片升级创造独立增长通道</text>
+
+  <g font-family="'PingFang SC', sans-serif" text-anchor="middle">
+    <!-- Left Column Label -->
+    <text x="280" y="390" font-size="22" fill="#cc7a86" letter-spacing="3">⨯ 压制链：存储通胀</text>
+    <rect x="60" y="408" width="440" height="3" fill="url(#redWarning)" rx="1.5"/>
+
+    <!-- Right Column Label -->
+    <text x="800" y="390" font-size="22" fill="#6bb89e" letter-spacing="3">✓ 增长链：芯片升级</text>
+    <rect x="580" y="408" width="440" height="3" fill="#6bb89e" rx="1.5"/>
+
+    <!-- LEFT CHAIN: Storage inflation -->
+    <rect x="60" y="440" width="440" height="105" rx="24" fill="#1a112c" stroke="#8e4f58" stroke-opacity="0.6"/>
+    <text x="280" y="478" font-size="22" fill="#d8949d" letter-spacing="3">AI 数据中心爆发</text>
+    <text x="280" y="518" font-size="28" font-weight="600" fill="#e8b4bb">HBM 需求是传统服务器 8-10 倍</text>
+    <line x1="280" y1="545" x2="280" y2="565" stroke="#cc7a86" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+    <rect x="60" y="575" width="440" height="105" rx="24" fill="#1a112c" stroke="#8e4f58" stroke-opacity="0.6"/>
+    <text x="280" y="613" font-size="22" fill="#d8949d" letter-spacing="3">消费级产能被挤占</text>
+    <text x="280" y="653" font-size="28" font-weight="600" fill="#e8b4bb">大厂全面转向 HBM 和高利润产品</text>
+    <line x1="280" y1="680" x2="280" y2="700" stroke="#cc7a86" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+    <rect x="60" y="710" width="440" height="105" rx="24" fill="#1a112c" stroke="#8e4f58" stroke-opacity="0.6"/>
+    <text x="280" y="748" font-size="22" fill="#d8949d" letter-spacing="3">存储价格暴涨</text>
+    <text x="280" y="788" font-size="28" font-weight="600" fill="#e8b4bb">DDR5 年内再涨 130%</text>
+    <line x1="280" y1="815" x2="280" y2="835" stroke="#cc7a86" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+    <rect x="60" y="845" width="440" height="105" rx="24" fill="#1a112c" stroke="#8e4f58" stroke-opacity="0.6"/>
+    <text x="280" y="883" font-size="22" fill="#d8949d" letter-spacing="3">换机需求被抑制</text>
+    <text x="280" y="923" font-size="28" font-weight="600" fill="#e8b4bb">PC -10.4% / 手机 -8.4%</text>
+
+    <!-- RIGHT CHAIN: Chip upgrade -->
+    <rect x="580" y="440" width="440" height="105" rx="24" fill="#0e1f1a" stroke="#6bb89e" stroke-opacity="0.5"/>
+    <text x="800" y="478" font-size="22" fill="#7cd4b2" letter-spacing="3">AI 代理生态成熟</text>
+    <text x="800" y="518" font-size="28" font-weight="600" fill="#a0dfc4">高通：现有设备算力不足</text>
+    <line x1="800" y1="545" x2="800" y2="615" stroke="#6bb89e" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+
+    <rect x="580" y="630" width="440" height="105" rx="24" fill="#0e1f1a" stroke="#6bb89e" stroke-opacity="0.5"/>
+    <text x="800" y="668" font-size="22" fill="#7cd4b2" letter-spacing="3">NPU 算力升级</text>
+    <text x="800" y="708" font-size="28" font-weight="600" fill="#a0dfc4">10 TOPS → 40+ TOPS</text>
+    <line x1="800" y1="735" x2="800" y2="805" stroke="#6bb89e" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+
+    <rect x="580" y="820" width="440" height="105" rx="24" fill="#0e1f1a" stroke="#6bb89e" stroke-opacity="0.5"/>
+    <text x="800" y="858" font-size="22" fill="#7cd4b2" letter-spacing="3">单机芯片价值提升</text>
+    <text x="800" y="898" font-size="28" font-weight="600" fill="#a0dfc4">ASP +15-25% · 先进制程 6→4nm</text>
+  </g>
+
+  <!-- Combined result at bottom -->
+  <rect x="170" y="1010" width="740" height="100" rx="24" fill="#1a112c" stroke="#f2df91" stroke-opacity="0.6"/>
+  <text x="540" y="1050" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="22" fill="#f2df91" letter-spacing="3">综合结果</text>
+  <text x="540" y="1090" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#f5e8b0">总量收缩 · 结构升级 · SoC 芯片量跌价升</text>
+
+  <rect x="90" y="1170" width="900" height="86" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1225" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="28" fill="#e8d696">关键观察：芯片环节利润分配优于整机环节</text>
+
+  <text x="90" y="1302" font-family="'PingFang SC', sans-serif" font-size="22" fill="#d8bc63" letter-spacing="3">验证指标</text>
+  <g font-family="'PingFang SC', sans-serif" font-size="23">
+    <rect x="90" y="1328" width="280" height="56" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="230" y="1360" text-anchor="middle" fill="#dfb4b9">8 月中报营收增速</text>
+    <rect x="400" y="1328" width="280" height="56" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="540" y="1360" text-anchor="middle" fill="#dfb4b9">DDR5 合约价趋势</text>
+    <rect x="710" y="1328" width="280" height="56" rx="16" fill="#2a1525" stroke="#8e4f58"/><text x="850" y="1360" text-anchor="middle" fill="#dfb4b9">Q3 出货环比变化</text>
+  </g>
+  <text x="90" y="1420" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1420" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>

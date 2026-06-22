@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0%" stop-color="#05050c"/>
+      <stop offset="48%" stop-color="#10091f"/>
+      <stop offset="100%" stop-color="#080611"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9d7930"/>
+      <stop offset="50%" stop-color="#ead58b"/>
+      <stop offset="100%" stop-color="#9d7930"/>
+    </linearGradient>
+    <radialGradient id="portraitGlow" cx="50%" cy="38%" r="48%">
+      <stop offset="0%" stop-color="#7d579c" stop-opacity="0.20"/>
+      <stop offset="62%" stop-color="#4a286a" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#4a286a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1080" height="1440" fill="url(#background)"/>
+  <ellipse cx="540" cy="420" rx="470" ry="430" fill="url(#portraitGlow)"/>
+
+  <g fill="none" stroke="#c8a750">
+    <circle cx="540" cy="432" r="372" stroke-opacity="0.08" stroke-width="1"/>
+    <circle cx="540" cy="432" r="420" stroke-opacity="0.04" stroke-width="1"/>
+    <path d="M96 1136 C280 1090 395 1178 548 1134 C712 1088 842 1122 984 1060" stroke-opacity="0.08" stroke-width="1.5"/>
+    <path d="M96 1194 C270 1148 410 1228 560 1182 C730 1130 854 1166 984 1118" stroke-opacity="0.04"/>
+  </g>
+
+  <g fill="#d7bc6a">
+    <circle cx="122" cy="158" r="3" fill-opacity="0.35"/>
+    <circle cx="948" cy="250" r="2.5" fill-opacity="0.28"/>
+    <circle cx="170" cy="1060" r="2" fill-opacity="0.22"/>
+    <circle cx="910" cy="1240" r="3" fill-opacity="0.20"/>
+  </g>
+
+  <image x="250" y="120" width="580" height="504" preserveAspectRatio="xMidYMid meet" href="circe-branding.png" xlink:href="circe-branding.png"/>
+
+  <rect x="390" y="692" width="300" height="2" rx="1" fill="url(#gold)"/>
+  <text x="540" y="826" text-anchor="middle" font-family="'PingFang SC', 'Heiti SC', sans-serif" font-size="42" font-weight="400" fill="#e7e1ef" letter-spacing="3">关注Circe</text>
+  <text x="540" y="902" text-anchor="middle" font-family="'PingFang SC', 'Heiti SC', sans-serif" font-size="42" font-weight="400" fill="#e7e1ef" letter-spacing="3">用事实和数据</text>
+  <text x="540" y="978" text-anchor="middle" font-family="'PingFang SC', 'Heiti SC', sans-serif" font-size="42" font-weight="400" fill="#e7e1ef" letter-spacing="3">跟踪市场真正的变化</text>
+  <rect x="470" y="1095" width="140" height="2" rx="1" fill="url(#gold)" opacity="0.7"/>
+  <text x="540" y="1192" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="400" fill="#9f91ad" letter-spacing="5">PUBLIC MATERIALS · DATA · SIGNALS</text>
+  <text x="540" y="1325" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="400" fill="#705e7b" letter-spacing="6">CAPITAL INSIGHT</text>
+</svg>

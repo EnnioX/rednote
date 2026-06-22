@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1440" width="1080" height="1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070611"/><stop offset="0.55" stop-color="#120a25"/><stop offset="1" stop-color="#090713"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b58c38"/><stop offset="0.5" stop-color="#f2df91"/><stop offset="1" stop-color="#b58c38"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="80" cy="1340" r="230" fill="none" stroke="#d8bc63" stroke-opacity="0.06"/>
+  <text x="90" y="112" font-family="'PingFang SC', sans-serif" font-size="24" fill="#8f80a5" letter-spacing="5">01 / INDUSTRY FACTS</text>
+  <text x="90" y="220" font-family="'PingFang SC', sans-serif" font-size="72" font-weight="700" fill="#f1df91">已确认的产业事实</text>
+  <rect x="90" y="266" width="150" height="4" rx="2" fill="url(#gold)"/>
+  <text x="90" y="325" font-family="'PingFang SC', sans-serif" font-size="27" fill="#a99abb">终端出货下滑 vs 芯片业绩新高——两组矛盾的数据</text>
+
+  <g font-family="'PingFang SC', sans-serif">
+    <!-- Card 1: 终端出货下滑 -->
+    <rect x="90" y="390" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">终端出货下滑</text>
+    <text x="130" y="525" font-size="52" font-weight="700" fill="#f6e8b5">-10.4%</text>
+    <text x="130" y="575" font-size="26" fill="#c6b9d4">PC 出货量降幅（Gartner）</text>
+    <line x1="130" y1="615" x2="470" y2="615" stroke="#5e4c75"/>
+    <text x="130" y="665" font-size="26" fill="#b8a9c8">手机出货同步降 8.4%</text>
+    <text x="130" y="705" font-size="26" fill="#b8a9c8">AI PC 渗透推迟至 2028 年</text>
+
+    <!-- Card 2: AI SoC芯片 -->
+    <rect x="570" y="390" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="450" font-size="22" fill="#d8bc63" letter-spacing="3">AI SoC 芯片逆势</text>
+    <text x="610" y="525" font-size="48" font-weight="700" fill="#f6e8b5">+40% / +160%</text>
+    <text x="610" y="575" font-size="26" fill="#c6b9d4">瑞芯微营收 44 亿</text>
+    <text x="610" y="610" font-size="26" fill="#c6b9d4">晶晨 AI 芯片 2000 万颗</text>
+    <line x1="610" y1="655" x2="950" y2="655" stroke="#5e4c75"/>
+    <text x="610" y="700" font-size="26" fill="#d4c8df">瑞芯微净利 +75%</text>
+    <text x="610" y="735" font-size="26" fill="#a99abb">独立于终端出货周期</text>
+
+    <!-- Card 3: 存储通胀 -->
+    <rect x="90" y="800" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="130" y="860" font-size="22" fill="#d8bc63" letter-spacing="3">存储通胀反噬</text>
+    <text x="130" y="935" font-size="52" font-weight="700" fill="#f6e8b5">+130%</text>
+    <text x="130" y="985" font-size="26" fill="#a99abb">DDR5 一年涨幅</text>
+    <line x1="130" y1="1020" x2="470" y2="1020" stroke="#5e4c75"/>
+    <text x="130" y="1070" font-size="26" fill="#d4c8df">AI 数据中心挤占消费级产能</text>
+    <text x="130" y="1110" font-size="26" fill="#a99abb">存储 BOM 占比 16%→23%</text>
+    <text x="130" y="1145" font-size="26" fill="#a99abb">短缺至少持续至 2028 年</text>
+
+    <!-- Card 4: 新品类 -->
+    <rect x="570" y="800" width="420" height="370" rx="28" fill="#171027" stroke="#7d6330" stroke-opacity="0.65"/>
+    <text x="610" y="860" font-size="22" fill="#d8bc63" letter-spacing="3">新品类萌芽</text>
+    <text x="610" y="935" font-size="48" font-weight="700" fill="#f6e8b5">超级发布年</text>
+    <text x="610" y="985" font-size="26" fill="#a99abb">AI 眼镜华为/Meta/苹果齐聚</text>
+    <line x1="610" y1="1020" x2="950" y2="1020" stroke="#5e4c75"/>
+    <text x="610" y="1070" font-size="26" fill="#d4c8df">端侧 AI 协处理器批量出货</text>
+    <text x="610" y="1110" font-size="26" fill="#a99abb">RK182X 3D 堆叠 NPU 架构</text>
+    <text x="610" y="1145" font-size="26" fill="#a99abb">不依赖存量换机的增量逻辑</text>
+  </g>
+
+  <rect x="90" y="1240" width="900" height="86" rx="18" fill="#d8bc63" fill-opacity="0.1" stroke="#d8bc63" stroke-opacity="0.35"/>
+  <text x="540" y="1295" text-anchor="middle" font-family="'PingFang SC', sans-serif" font-size="28" fill="#e8d696">量跌价升：终端出货下降，芯片价值量却在提升</text>
+  <text x="90" y="1380" font-family="'Times New Roman', serif" font-size="20" font-weight="700" fill="#d8bc63" letter-spacing="4">CIRCE</text>
+  <text x="990" y="1380" text-anchor="end" font-family="'PingFang SC', sans-serif" font-size="16" fill="#6f627e">资料整理 · 2026.06</text>
+</svg>
